@@ -1,0 +1,446 @@
+{
+    "serial": {
+        "port": "COM4",
+        "baudrate": 9600
+    },
+    "macros": {
+        "page_0": {
+            "F21": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F22": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F23": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F24": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F17": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F18": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F19": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F20": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F13": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F14": {
+                "type": "hotkey",
+                "value": "tets",
+                "description": ""
+            },
+            "F15": {
+                "type": "hotkey",
+                "value": "page0",
+                "description": ""
+            },
+            "F16": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            }
+        },
+        "page_1": {
+            "F21": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F22": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F23": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F24": {
+                "type": "command",
+                "value": "\"C:\\Users\\samue\\AppData\\Local\\Mozilla Firefox\\firefox.exe\" \"https://oqee.tv\"\n",
+                "description": "open oqee  tv"
+            },
+            "F17": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F18": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F19": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F20": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F13": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F14": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F15": {
+                "type": "hotkey",
+                "value": "ctrl+shift+esc",
+                "description": ""
+            },
+            "F16": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            }
+        },
+        "page_2": {
+            "F21": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F22": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F23": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F24": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F17": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F18": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F19": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F20": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F13": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F14": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F15": {
+                "type": "hotkey",
+                "value": "page2",
+                "description": ""
+            },
+            "F16": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            }
+        },
+        "page_3": {
+            "F21": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F22": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F23": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F24": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F17": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F18": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F19": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F20": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F13": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F14": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F15": {
+                "type": "hotkey",
+                "value": "page3",
+                "description": ""
+            },
+            "F16": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            }
+        },
+        "page_4": {
+            "F21": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F22": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F23": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F24": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F17": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F18": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F19": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F20": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F13": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F14": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F15": {
+                "type": "hotkey",
+                "value": "page4",
+                "description": ""
+            },
+            "F16": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            }
+        },
+        "page_5": {
+            "F21": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F22": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F23": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F24": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F17": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F18": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F19": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F20": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F13": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F14": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F15": {
+                "type": "hotkey",
+                "value": "page5",
+                "description": ""
+            },
+            "F16": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            }
+        },
+        "page_6": {
+            "F21": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F22": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F23": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F24": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F17": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F18": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F19": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F20": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F13": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F14": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            },
+            "F15": {
+                "type": "hotkey",
+                "value": "page6",
+                "description": ""
+            },
+            "F16": {
+                "type": "hotkey",
+                "value": "",
+                "description": ""
+            }
+        }
+    },
+    "dark_mode": true,
+    "start_daemon_on_launch": false,
+    "multipage_mode": true,
+    "last_page": 2
+}
