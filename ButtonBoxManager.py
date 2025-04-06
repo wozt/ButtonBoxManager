@@ -125,12 +125,7 @@ def create_gui():
 
     # Appliquer le thème après avoir défini 'style'
     apply_theme(style, dark_mode)
-
-    # Le reste du code de votre fonction create_gui...
-
-
-
-
+    
     def get_macros_for_page(page):
         return config["macros"].get(f"page_{page}", {
             f"F{13+i}": {"type": "hotkey", "value": ""} for i in range(12)
@@ -159,7 +154,6 @@ def create_gui():
 
     root.protocol("WM_DELETE_WINDOW", on_closing)
     
-
     # Config COM & Baudrate
     port_var = tk.StringVar(value=serial_config.get("port", "COM3"))
     baud_var = tk.StringVar(value=str(serial_config.get("baudrate", 9600)))
@@ -188,8 +182,6 @@ def create_gui():
     else:
         ttk.Entry(frame, textvariable=port_var, width=10).grid(row=0, column=1, sticky="w")
         ttk.Entry(frame, textvariable=baud_var, width=10).grid(row=0, column=3, sticky="w")
-
-   
 
     ttk.Separator(frame).grid(row=1, column=0, columnspan=4, sticky="ew", pady=2)
 
@@ -306,16 +298,12 @@ def create_gui():
 
         draw_macro_page(current_page)
 
-
-
-
     ttk.Checkbutton(
         frame,
         text="Mode multipage",
         variable=multipage_var,
         command=lambda: on_mode_toggle()
     ).grid(row=16, column=0, columnspan=4, pady=(5, 0), sticky="w")
-
 
     # Zone pour la console
     console = tk.Text(frame, height=15, bg="black", fg="lime", insertbackground="white")
@@ -459,7 +447,6 @@ def create_gui():
     if not multipage_var.get():
         page_nav_frame.grid_remove()
         page_label.config(text="")
-
 
     if config.get("start_daemon_on_launch", False):
         launch_daemon()
