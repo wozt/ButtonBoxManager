@@ -16,11 +16,11 @@ Soldering:
  -
 <img src="png/soldering.png" alt="Soldering" width="50%"/>
 
-Ether choose between multiple pages or just one page mode
+
 
 Screenshots:
  -
-
+Ether choose between multiple pages or just one page mode
 <div align="left">
   <img src="png/screen1.png" alt="Image 1" width="40%"/>
   <img src="png/screen2.png" alt="Image 2" width="40%"/>
