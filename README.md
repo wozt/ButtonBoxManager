@@ -25,7 +25,7 @@ Rest of config can be done in the gui.
 
 Launch:
  - in powershell, launch
- - python.exe path/to/ButtonBox/ButtonBoxManager.py
+ <pre> ``` python.exe path/to/ButtonBox/ButtonBoxManager.py ``` </pre>
 
 to be added:
 - Command line / no head program
