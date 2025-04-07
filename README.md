@@ -44,4 +44,5 @@ to be added:
 - choose buttons number
 - linux compatiblility
 - custom png instead of button + desc
+- multi language support
 - who knows...
