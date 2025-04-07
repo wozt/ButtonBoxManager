@@ -1,5 +1,5 @@
 # ButtonBoxManager
-DIY button interfacer with arduino nano 
+DIY button interfacer with arduino nano AKA DIY stream deck
 
 This python script is made to interface 12 buttons that can trigger keyboard shorcuts or custom commands
 It use 
