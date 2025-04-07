@@ -15,8 +15,11 @@ Soldering:
 Ether choose between multiple pages or just one page mode
 
 Screenshots:  
-<img src="png/screen1.png" alt="Screen1" width="50%"/>
-<img src="png/screen2.png" alt="Screen2" width="50%"/>  
+
+<div align="center">
+  <img src="png/screen1.png" alt="Image 1" width="200" style="margin-right: 10px;"/>
+  <img src="png/screen2.png" alt="Image 2" width="200"/>
+</div>
 
 
 Config file: 
