@@ -4,7 +4,8 @@ DIY button interfacer with arduino nano
 This python script is made to interface 12 buttons that can trigger keyboard shorcuts or custom commands
 
 Python dependances:
- -
+ <pre>pip install pyautogui pyserial</pre>
+ <pre>sudo apt install python3-tk</pre>
 
 Here is the hardware:  
 <img src="png/ButtonBox.png" alt="ButtonBox" width="50%"/>
