@@ -16,8 +16,8 @@ Ether choose between multiple pages or just one page mode
 
 Screenshots:  
 
-<div align="center">
-  <img src="png/screen1.png" alt="Image 1" width="40%" style="margin-right: 10px;"/>
+<div align="left">
+  <img src="png/screen1.png" alt="Image 1" width="40%"/>
   <img src="png/screen2.png" alt="Image 2" width="40%"/>
 </div>
 
