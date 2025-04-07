@@ -7,16 +7,16 @@ Python dependances:
  -
 
 Here is the hardware:  
-<img src="png/ButtonBox.png" alt="Image responsive" width="50%"/>
+<img src="png/ButtonBox.png" alt="ButtonBox" width="50%"/>
 
 Soldering:  
-![Soldering](png/soldering.png)  
+<img src="png/soldering.png" alt="Soldering" width="50%"/>
 
 Ether choose between multiple pages or just one page mode
 
 Screenshots:  
-![Screenshot1](png/screen1.png)
-![Screenshot2](png/screen2.png)  
+<img src="png/screen1.png" alt="Screen1" width="50%"/>
+<img src="png/screen2.png" alt="Screen2" width="50%"/>  
 
 
 Config file: 
