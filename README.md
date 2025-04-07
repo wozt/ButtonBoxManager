@@ -23,6 +23,10 @@ Config file:
 You can edit max pages in the config.json 
 Rest of config can be done in the gui.
 
+Launch:
+ - in powershell, launch
+ - python.exe path/to/ButtonBox/ButtonBoxManager.py
+
 to be added:
 - Command line / no head program
 - packed to exe
