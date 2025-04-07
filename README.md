@@ -1,14 +1,14 @@
 # ButtonBoxManager
 DIY button interfacer with arduino nano 
 
-Here is the hardware:
+Here is the hardware:  
 ![Hardware](png/ButtonBox.png)
 
-Soldering:
-![Solrering(png/soldering.png)
+Soldering:  
+![Soldering](png/soldering.png)
 
-Screenshots:
+Screenshots:  
 ![Screenshot1](png/screen1.png)
 
-Config file:
+Config file: 
 You can edit max pages in the config.json 
