@@ -5,6 +5,7 @@ Here is the hardware:
 ![Hardware](png/ButtonBox.png)
 
 Soldering:
+![Solrering(png/soldering.png)
 
 Screenshots:
 ![Screenshot1](png/screen1.png)
