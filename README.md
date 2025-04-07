@@ -15,7 +15,7 @@ Soldering:
 Ether choose between multiple pages or just one page mode
 
 Screenshots:  
-![Screenshot1](png/screen1.png)  
+![Screenshot1](png/screen1.png)
 ![Screenshot2](png/screen2.png)  
 
 
