@@ -30,9 +30,9 @@ Ether choose between multiple pages or just one page mode
 Flash Arduino:
  -
 You need to flash arduino_nano_rom.ino using arduino IDE
- Open arduino ide and select your board, then
- File -> Open -> then open arduino_nano_rom.ino
- and clic upload
+ Open arduino ide and select your board, then  
+ File -> Open -> arduino_nano_rom.ino  
+ and clic upload  
 <div align="left">
   <img src="png/arduinoIDEinstall1.png" alt="install1" width="45%"/>
   <img src="png/arduinoIDEinstall2.png" alt="install2" width="45%"/>
