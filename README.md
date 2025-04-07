@@ -32,10 +32,11 @@ Flash Arduino:
 You need to flash arduino_nano_rom.ino using arduino IDE
  Open arduino ide and select your board, then
  File -> Open -> then open arduino_nano_rom.ino
- <img src="png/arduinoIDEinstall1.png" alt="install1" width="50%"/>
-
- Clic upload
- <img src="png/arduinoIDEinstall2.png" alt="install2" width="50%"/>
+ and clic upload
+<div align="left">
+  <img src="png/arduinoIDEinstall1.png" alt="install1" width="45%"/>
+  <img src="png/arduinoIDEinstall2.png" alt="install2" width="45%"/>
+</div>
 
 Config file:
  -
