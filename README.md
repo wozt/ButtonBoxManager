@@ -7,7 +7,7 @@ Python dependances:
  -
 
 Here is the hardware:  
-![Hardware](png/ButtonBox.png)
+<img src="png/ButtonBox.png" alt="Image responsive" width="50%"/>
 
 Soldering:  
 ![Soldering](png/soldering.png)  
