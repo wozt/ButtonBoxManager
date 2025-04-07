@@ -57,3 +57,7 @@ to be added:
 - custom png instead of button + desc
 - multi language support
 - who knows...
+
+Special thanks:
+ -
+ Chap gpt, my best bro 
