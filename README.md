@@ -60,4 +60,4 @@ to be added:
 
 Special thanks:
  -
- Chap gpt for the assitance.
+ Chap gpt
